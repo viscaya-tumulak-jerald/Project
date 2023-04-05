@@ -1,0 +1,37 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background-color: aquamarine;
+}
+img {
+    width: 300px;
+    height: 200px;
+    clip-path: circle(40%);
+}
+.jerald {
+    padding: 100px;
+    text-decoration: underline;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+p {
+    color: maroon;
+    font-size: 30px;
+}
+b {
+    color: black;
+}
+li {
+    list-style: none;
+    font-size: 20px;
+    color: maroon;
+}
+.fa-facebook {
+    color: blue;
+}
+.fa-square-youtube {
+    color: red;
+    padding: 20px;
+}
